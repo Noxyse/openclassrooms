@@ -1,0 +1,123 @@
+html, body, #page {
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+.big1 {
+	display: flex;
+	align-items: center;
+	height: 12em;
+	padding: 4em 4em;
+	background-color: #7451EB;
+	font-size: 20px;
+	font-family: "Verdana", sans-serif;
+}
+
+.left1 {
+	position: relative;
+	display: block;
+	margin-left: 50px;
+}
+
+h1 {
+	color: #FFF;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 1.2em;
+	position: 5px;
+	color: #044770;
+	font-weight: bold;
+	font-family: "Verdana", sans-serif;
+}
+
+mark {
+	background-color: #0ce8a7;
+	color: #044770;
+}
+
+.big1 p {
+	color: white;
+}
+
+.right1 {
+	position: relative;
+	display: block;
+  
+}
+
+.big1 img {  
+	width: 35%;  
+	height: auto;  
+	position: relative;
+	float: right;
+}  
+
+.big2 {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	height: 20em;
+	background-color: #FFF;
+	font-size: 20px;
+}
+
+.left2 {
+	width: 30%;  
+	height: auto;  
+	position: relative;
+	margin-left: 100px;
+}
+
+.right2 {
+	display: block;
+	position: relative;
+	margin-left: 300px;
+	margin-right: 60px;
+	font-family: "Verdana", sans-serif;
+	color: #044770;
+	
+}
+
+.big3 {
+	height: 12em;
+	padding: 4em 4em;
+	background-color: #003668;
+	font-size: 20px;
+	font-family: "Verdana", sans-serif;
+}
+
+.left3 {
+	position: relative;
+	display: block;
+	margin-left: 50px;
+}
+
+.big3 p {
+	display: contents;
+	font-size: 25px;
+	color: white;
+	
+}
+
+.big3 img {
+	padding: 10px;
+	width: 6%;
+	height: auto;  
+	position: relative;
+}
+
+.icons {
+	display: flex;
+	align-items: center;
+	margin-left: 39px;
+	margin-top: 40px;
+}
+
+.icons img {
+	width: 90px !important;
+	height: 90px !important;
+}
